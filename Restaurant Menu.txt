@@ -1,0 +1,10 @@
+Nasi Lemak	2.50
+Nasi Lemak Ayam	5.00
+Mi Goreng	4.50
+Mi Goreng Mamak	4.50
+Roti Canai	1.50
+Nasi Goreng 	4.50
+Milo Ais	3.70
+Milo Panas	3.50
+Teh Tarik	3.30
+Teh Oh Ais	3.00
